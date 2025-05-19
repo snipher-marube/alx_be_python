@@ -3,5 +3,5 @@ rate = 0.05  # Interest rate in decimal
 time = 3  # Time in years
 
 # Simple Interest formula
-simple_interest = (principal * rate * time) 
-print("Simple Interest is:", simple_interest)
+interest = (principal * rate * time) 
+print(f"Simple Interest is: {interest}")
