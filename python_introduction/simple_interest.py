@@ -4,4 +4,4 @@ time = 3  # Time in years
 
 # Simple Interest formula
 interest = (principal * rate * time) 
-print(f"Simple Interest is: {interest}")
+print("Simple Interest is:", interest)
