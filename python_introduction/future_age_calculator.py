@@ -1,4 +1,4 @@
-current_age = int(input("Enter your current age: "))
+current_age = int(input("How old are you? "))
 # Calculate the age in 2050
 # Assuming the current year is 2023
 # and 2050 is 27 years from now
